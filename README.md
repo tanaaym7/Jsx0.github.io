@@ -86,30 +86,6 @@ const displayName = username ?? 'Anonymous';
 // Uses 'Anonymous' when username is null or undefined
 ```
 
-### Challenge Task
-Create a user profile parser that handles complex, potentially incomplete user data.
-
-```javascript
-// Challenge: Robust User Profile Parser
-function parseUserProfile(rawData) {
-  // Your solution should:
-  // 1. Safely extract nested user information
-  // 2. Provide default values for missing fields
-  // 3. Handle various data structures
-  // 4. Implement validation and transformation
-}
-
-// Example input might look like:
-const incompleteUserData = {
-  id: '123',
-  // Might have incomplete or missing nested data
-  contact: {
-    // Some fields might be missing
-  },
-  preferences: null
-};
-```
-
 ## 3. Immutable Update Patterns 🔒
 
 ### Concept Overview
