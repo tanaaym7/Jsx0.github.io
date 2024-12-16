@@ -1,4 +1,4 @@
-# Advanced JavaScript Concepts for React Developers
+# JavaScript Concepts for React Developers
 
 ## 1. Array Transformation Methods (map, filter, reduce) 🧩
 
